@@ -1,0 +1,13 @@
+
+version: 1
+project:
+  title: IP2 - Floris en Rens
+  description: Ons project
+  authors:
+    - name: Floris
+    - name: Rens
+
+site:
+  template: book-theme
+  title: IP2 - Floris en Rens
+
